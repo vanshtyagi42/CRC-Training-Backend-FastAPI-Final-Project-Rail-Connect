@@ -40,8 +40,8 @@ Python 3.11+, FastAPI, Uvicorn, SQLModel, SQLite, Pydantic, pydantic-settings, p
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vanshtyagi42/railconnect.git 
-cd railconnect 
+git clone https://github.com/vanshtyagi42/CRC-Training-Backend-FastAPI-Final-Project-Rail-Connect.git 
+cd CRC-Training-Backend-FastAPI-Final-Project-Rail-Connect  
 
 # 2. Create and activate a virtual environment (Windows)
 python -m venv .venv
